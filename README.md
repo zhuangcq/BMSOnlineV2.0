@@ -1,4 +1,4 @@
-# BMSonline V2.0: A Simulated Envrionment of VAV Air-conditioning System and Its Integrated Digital Controls 
+# BMSonline V2.0: A Simulated Environment of VAV Air-conditioning System and Its Integrated Digital Controls
 ![BMSonline Banner](/Picture/welcomev2.jpg)
 ## Installation:
 You can download from the Release/Setup.msi.
